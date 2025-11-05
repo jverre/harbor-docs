@@ -2,6 +2,7 @@
     "pages": [
         "---Harbor---",
         "index",
+        "core-concepts",
         "migration",
         "---Agents---",
         "agents",
