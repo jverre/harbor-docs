@@ -9,7 +9,6 @@
         "agents",
         "---Tasks---",
         "task-format",
-        "task-tutorial",
         "task-difference",
         "---Datasets---",
         "datasets",
@@ -19,7 +18,6 @@
         "---Use Cases---",
         "evals",
         "rl",
-        "prompt-optimization",
         "sft",
         "---Contributing---",
         "contributing"
