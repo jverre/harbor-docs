@@ -11,6 +11,7 @@
         "task-format",
         "task-difference",
         "---Datasets---",
+        "running-tbench",
         "datasets",
         "metrics",
         "---Cloud---",
