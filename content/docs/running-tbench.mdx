@@ -24,4 +24,14 @@ harbor run -d terminal-bench@2.0 -m "anthropic/claude-haiku-4-5-20251001" -a "cl
 See our docs on [agents](/docs/agents) for more information on how to test your own agent on Terminal-Bench.
 
 
+## Submitting to the Terminal-Bench leaderboard
+To submit to the Terminal-Bench leaderboard, you can use the following command:
+
+```bash
+harbor run -d terminal-bench@2.0 -m "<model>" -a "<agent>" --n-attempts 5  --jobs-dir <path/to/ouput> <any-other-flags>
+```
+
+This will run 5 attempts of the agent on the benchmark. Please share the jobs directory with us by emailing `mchlmerrill@gmail.com` and `alex@laude.org`.
+
+## Viewing the Terminal-Bench leaderboard
 
